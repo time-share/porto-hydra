@@ -1,2 +1,2 @@
 # porto-hydra
-An alias for portohydra.time-share.gr
+An alias for http://portohydra.time-share.gr
